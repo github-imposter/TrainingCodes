@@ -1,0 +1,4 @@
+TrainingCodes
+=============
+
+basic algorithms
